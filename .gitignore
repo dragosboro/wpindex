@@ -1,0 +1,4 @@
+publish.sh
+.env
+*.log
+error_log
