@@ -8,9 +8,9 @@ WPIndex continuously monitors WordPress website performance across the internet,
 ## Recent Performance Trends (Last 30 Days)
 
 <!-- Performance entries start here, newest first -->
-**2025-12-26 00:00:02 UTC**
-- Mobile: 1,152 sites analyzed | Average Score: 58.10
-- Desktop: 1,147 sites analyzed | Average Score: 74.43
+**2025-12-27 00:00:02 UTC**
+- Mobile: 1,141 sites analyzed | Average Score: 59.65
+- Desktop: 1,142 sites analyzed | Average Score: 75.66
 
 
 ---
