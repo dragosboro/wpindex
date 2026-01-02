@@ -1,0 +1,10 @@
+WordPress Performance Report - January 01, 2026
+
+On this day, WPIndex analyzed the performance of WordPress websites across the internet:
+- Mobile: 1,172 websites measured, achieving an average PageSpeed score of 58.89
+- Desktop: 1,172 websites measured, achieving an average PageSpeed score of 75.83
+
+These metrics reflect real-world performance data collected through Google's PageSpeed Insights API,
+providing a snapshot of WordPress ecosystem performance health.
+
+Report generated: 2026-01-02 00:00:03 UTC
